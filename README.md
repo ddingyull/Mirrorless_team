@@ -1,73 +1,86 @@
-# 📸 MIRRORLESS
+# 📸 MIRRORLESS 정품 & 빈티지 카메라 판매 플랫폼
+## 🏆 POSCO  & CODING ON 프론트엔드 프로젝트 종합 1등
 
-## 🏆 POSCO 주최 웹 서비스 개발 프로젝트 종합 1등 
-📷 유명 정품 카메라부터 감성있는 빈티지 제품들을 한번에 볼 수 있는 카메라 구매 사이트를 제작하였습니다.<br/>
-📷 팀원들과 함께 사이트의 프론트엔드 영역의 UI와 기능을 구현하였습니다. <br/>
-📷 HTML, CSS, JAVASCRIPT 외 SCSS, GSSAP, JQUERY를 함께 사용하여 효율적으로 프로젝트를 완성하였습니다. <br/><br/>
+<br/>
+- 유명 정품 카메라부터 감성있는 빈티지 제품들을 한번에 볼 수 있는 카메라 구매 사이트를 제작하였습니다.<br/>
+- 팀원들과 함께 사이트의 프론트엔드 영역의 UI와 기능을 구현하였습니다. <br/>
+<br/>
+⏱ 개발 기간 : 2022년 8월 1일 ~ 14일 (2주)<br/>
 
-- 유명 정품 카메라부터 감성있는 빈티지 제품들을 한번에 볼 수 있는 카메라 구매 사이트를 제작하였습니다.
-- 팀원들과 함께 사이트의 프론트엔드 영역의 UI와 기능을 구현하였습니다.
+🖥 플랫폼 : Web (Frontend Page)
 
+🔗 page link : <a>https://tranquil-lily-687501.netlify.app/</a>
 
-👀 배포 링크 : https://tranquil-lily-687501.netlify.app/
+👩🏻‍💻 개발 인원 
 
-![mirrorless1 (1)](https://user-images.githubusercontent.com/105038512/186224508-450f577e-d6e0-4153-8520-12017bf59e69.gif)
+: 프론트엔드 3명 (강유림, 이소민, 모승환)
 
-![mirrorless2](https://user-images.githubusercontent.com/105038512/186224965-20d26cad-3d7a-45e0-aa6b-0bd42635f597.gif)
+: 백엔드 1명 (모승환)
+<br/><br/>
+<img width="400" alt="aboutus_part" src="https://user-images.githubusercontent.com/105038512/188182587-c5a9c36c-5a76-4dc9-8172-16699516cdac.png">
 
-![mirrorless3](https://user-images.githubusercontent.com/105038512/186225252-9754a8b7-ec35-4a05-9de5-d6a6e639c2d7.gif)
+### 개발 환경
+
+언어 : HTML, CSS, SCSS, JAVASCRIPT
+
+라이브러리 : Swiper, Gsap, Jquery
+
+보조 프로그램 : Illustration
 
 <br/>
 
-### 🗂 목차
-- 기간
-- 팀원 소개
-- 주요 기능 & 역할
-- 기술 스택<br/><br/>
+### 페이지 제작 의도
 
-### ⏱ 기간
-2022년 08월 01일 ~ 08월 15일<br/><br/>
+<img width="700" alt="aboutus1" src="https://user-images.githubusercontent.com/105038512/188183380-8634d1a2-09b7-444a-b652-b1d9df7fa8d0.png">
 
-### 🖥 플랫폼
-Web (Frontend Page)
-
-### 👩🏻‍🔧 팀원 소개
-강유림, &nbsp; 모승환,&nbsp; 이소민<br/><br/>
+<img width="700" alt="aboutus3" src="https://user-images.githubusercontent.com/105038512/188183396-815487b5-c42c-4e67-9b09-adf12e72c04e.png">
 
 
-### 🛠 주요 기능 & 역할
+https://user-images.githubusercontent.com/105038512/188183405-22636e67-a42e-44cc-b370-e503edb09623.mov
 
-1. 이소민 - 이벤트 팝업 창, Store, Product Detail, Login page UI 디자인 및 구현 
- - 이벤트 팝업 창 UI 구성 및 구현
- - flex를 이용한 All Product page 구현 
- - Product detail page 구현 
- - swiper library를 통해 General, film, camcoder 페이지 구현 
- - display, scale를 활용하여 제품 클릭시 detail page 보이게 함 
- - Login page UI 구성 및 구현
- - SCSS를 활용한 전반적인 CSS 구현 
- - SCSS를 이용하여 header 구현 
- - JavaScript를 활용하여 detail page 수량 선택 기능 구현  <br/><br/>
- 
-2. 강유림 - Main page, Custom page, page UI 디자인
- - Main page UI 구성
- - keyframe을 통해 필름 애니메이션 구현
- - Gssap 라이브러리를 통해 scroll 시 요소의 사이즈 조절하는 기능 구현
- - SCSS의 position으로 포스터 이미지에서 특정 카메라만 원하는 사이즈로 확대/축소 UI 구성
- - Custom 카메라 img를 배열데이터로 받고, 해당 데이터를 시간순서대로 보여지는 이벤트를 부여하여 기능 구현
- - Custom detail page에서 유저가 원하는 컬러와 이모지를 선택할 수 있는 기능 구현
- - Custom detail page drop down형식으로 원하는 카메라 카테고리로 이동할 수 있는 메뉴를 시각화
- - Custom detail page 수량 선택 시 수량이 증가하며 그에 따라 결제 금액이 함께 증가하는 함수 제작 <br/><br/>
+<br/><br/>
 
- 
-3. 모승환 -Map page, kakao API구현
- - Map page UI 구현
- - Kakao map을 사용하여 가게 위치 표시
- - login page에 kakao login 기능을 추가하여 구현.
- - custom detail page 공유하기 기능을 구현.
+### 페이지 주요 기능 6가지 (직접 구현한 기능만 작성)
 
-### ⛑ 기술스택
-- HTML
-- CSS / SCSS
-- JAVASCRIPT / JQUERY
-- SWIPER 
-- GSSAP
+### 1. **web page의 전체 디자인 컨셉 진행**
+
+<img width="1000" alt="스크린샷 2022-09-03 오전 12 36 13" src="https://user-images.githubusercontent.com/105038512/188186245-fdace185-80d9-476b-8f2a-f6b6d214fbf9.png">
+- 사용자의 타겟 연령층과 취향을 고려하여 orange, black을 메인 컬러로 사용하였습니다.<br/>
+- 글씨체, 각 요소의 크기 등 bold하고 깔끔한 분위기로 연출하였습니다.<br/>
+- detail 페이지 → All 페이지 illustration으로 카메라 크기를 균일하게 수정하여 연출하였습니다.<br/>
+
+
+![mirrorless1 (1)](https://user-images.githubusercontent.com/105038512/186224508-450f577e-d6e0-4153-8520-12017bf59e69.gif)
+
+### 2. **keyframe을 이용하여 img애니메이션 기능 구현**
+
+- img를 illustration으로 이미지를 편집하여 3개의 이미지를 편집하여 사용하였습니다.
+- keyframe의 transition과 scale을 사용하여 구현하였습니다.
+
+### 3. **Scroll 시 각각의 이미지가 기존 돌아오는 기능 구현 (Gsap라이브러리 활용)**
+
+- gsap라이브러리 추가 후 javascript에서 페이지의 특정 Y값에서 각각의 이미지 요소들의 scale이 작아지도록 구현하였습니다.
+- 전체적인 디자인을 bold한 컨셉으로 진행하였기 때문에 각각의 카메라가 유별나게 튀어보이지 않도록 scroll 시 작아지는 효과를 통해 강조하였습니다.
+
+### 4. 카메라 포스터에 mouseover했을 때 카메라 img 크기 커지는 기능
+
+- SCSS, CSS의 position 속성을 활용하였습니다.
+- mouseover 하였을 때 포스터 이미지에서 ‘카메라’만 강조될 수 있도록 구현하였습니다.
+
+
+### 5. 다양한 색상의 카메라가 자동으로 보여지는 기능
+https://user-images.githubusercontent.com/105038512/188183850-f2105de7-abdb-4971-af02-776d18a1c679.mov
+
+- 카메라를 Custom할 수 있는 프로모션 강조를 위하여 같은 카메라의 다양한 색상이 보여지도록 하였습니다.
+- javascript의 배열을 생성한 후 순서대로 이미지가 보여질 수 있도록 구현하였습니다.
+
+
+### 6. 카메라 구매페이지에서 기능 구현
+https://user-images.githubusercontent.com/105038512/188183977-c5faaad4-1d75-4dd8-a7f1-c8ec6fe30de6.mov
+
+- 수량 : 증/감에 따라 숫자 변경, 총 금액 변경
+- 컬러 : 컬러 선택 시 해당 컬러 출력
+- 이모지 : 이모지 선택 시 input box에 이모지가 출력
+- input창의 아이콘 선택 시 회전되면서 List 나타나기, 선택 시 페이지 이동
+
+
